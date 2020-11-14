@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "889624782236",
+    "firebase_url": "https://contatos-8f9db.firebaseio.com",
+    "project_id": "contatos-8f9db",
+    "storage_bucket": "contatos-8f9db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889624782236:android:ab41d80cb01d66ffc05459",
+        "android_client_info": {
+          "package_name": "contatos.@"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889624782236-io5ko88ognto4ng8m3o8eu2jf9virp8m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "contatos.@",
+            "certificate_hash": "22c79a5abb7ff6a4384221dcf49d95d61b5b4876"
+          }
+        },
+        {
+          "client_id": "889624782236-fham3schbi0kdkhq25acaadhh0ms5hr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJO1iMzm_hq1ijF60EYPQgHl8ZLwUS96o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889624782236-fham3schbi0kdkhq25acaadhh0ms5hr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
